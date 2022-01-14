@@ -1,0 +1,33 @@
+{
+	"folders": [
+		{
+			"name": "LVGL_Learn",
+			"path": ".."
+		},
+		{
+			"name": "FreeRTOS_Demo",
+			"path": "../../FreeRTOS_Demo"
+		},
+		{
+			"name": "LVGL_Gui-Guider-Demo",
+			"path": "../../LVGL_Gui-Guider-Demo"
+		},
+		{
+			"name": "Clock",
+			"path": "../../../../Disk/Document/PROJECT/ESP32/Clock"
+		},
+		{
+			"name": "TouchSreen_Demo",
+			"path": "../../TouchSreen_Demo"
+		},
+		{
+			"name": "CastScreen",
+			"path": "../../../../Disk/Document/PROJECT/ESP32/CastScreen"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"headpor.c": "cpp"
+		}
+	}
+}
