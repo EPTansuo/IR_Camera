@@ -89,7 +89,7 @@ void setup()
 
     tft.begin();
     tft.setRotation(1); // landSacpe
-    tft.fillScreen(TFT_WHITE);
+    tft.fillScreen(TFT_BLACK);
     show.createSprite(160, 120);
 
 #ifdef USE_LVGL
