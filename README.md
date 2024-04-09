@@ -7,7 +7,10 @@
 ## Introduction
 
 This project uses ESP32 as the MCU and then utilizes the PlatformIO plugin of VScode for development.
+
 When using, please create a folder named `lib` in the project directory and download the libraries for MLX90640, LVGL, and TFT-eSPI.
+
+If you cannot find the library of MLX90650, you can see [https://github.com/EPTansuo/MLX90640](https://github.com/EPTansuo/MLX90640)
 
 **IR Camera Sensor:**[MLX90640](https://item.taobao.com/item.htm?id=636161415802&_u=e32soktte3a4)
 
